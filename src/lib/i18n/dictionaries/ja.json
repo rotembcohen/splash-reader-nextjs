@@ -1,0 +1,240 @@
+{
+  "common": {
+    "download": "ダウンロード",
+    "learnMore": "詳細を見る",
+    "contactUs": "お問い合わせ",
+    "viewMore": "もっと見る",
+    "backToHome": "ホームに戻る",
+    "appName": "Splash Reader",
+    "copyright": "© 2024 Splash Software, LLC",
+    "close": "閉じる",
+    "open": "開く",
+    "selectLanguage": "言語を選択",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "compatibility": "互換性"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "message": "お探しのページは存在しないか、移動されました。"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "features": "機能",
+    "environments": "環境",
+    "reviews": "レビュー",
+    "contact": "お問い合わせ"
+  },
+  "meta": {
+    "home": {
+      "title": "Splash Reader - Apple Vision Pro向けVRコミックリーダー",
+      "description": "Splash Readerで今までにない方法でコミックを体験しましょう。Apple Vision Pro専用に設計された初のVRコミックリーダーです。",
+      "keywords": "VRコミックリーダー, Apple Vision Proアプリ, デジタルコミックVR, Splash Reader, CBR, CBZ, PDF"
+    },
+    "features": {
+      "title": "機能 - Apple Vision Pro向けSplash Reader",
+      "description": "Splash Readerの独自機能を発見：パノラマビュー、仮想書棚、複数コミックサポートなど、Apple Vision Pro向けの機能が満載。",
+      "keywords": "VRコミック機能, パノラマコミックビュー, 3D仮想書棚, 複数コミック, Vision Proアプリ"
+    },
+    "environments": {
+      "title": "VR環境 - Apple Vision Pro向けSplash Reader",
+      "description": "Apple Vision Pro向けSplash Readerで没入型360°読書環境を探索。コミック読書体験を向上させましょう。",
+      "keywords": "VR読書環境, 360コミック読書, 没入型コミック, Vision Pro環境"
+    },
+    "reviews": {
+      "title": "ユーザーレビュー - Apple Vision Pro向けSplash Reader",
+      "description": "革命的なVRコミックブックリーダー、Apple Vision Pro向けSplash Readerについてユーザーの声をご覧ください。",
+      "keywords": "Splash Readerレビュー, VRコミックアプリレビュー, Vision Proアプリレビュー"
+    },
+    "contact": {
+      "title": "お問い合わせ - Apple Vision Pro向けSplash Reader",
+      "description": "Splash Readerチームにご連絡ください。Apple Vision Proコミックリーダーアプリのサポート、フィードバック、お問い合わせ。",
+      "keywords": "Splash Readerサポート, コミックリーダーヘルプ, Vision Proアプリ連絡先"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "革命的なコミックブック体験",
+      "subtitle": "Apple Vision Pro専用に設計された初のVRコミックリーダー",
+      "cta": "今すぐダウンロード"
+    },
+    "intro": {
+      "title": "コミックブックの新次元",
+      "description": "Splash ReaderはApple Vision Proでデジタルコミックを楽しむ方法を革新します。CBR、CBZ、PDFなどすべての一般的なフォーマットをサポートし、Splash Readerはあなたの読書体験を向上させます。"
+    },
+    "features": {
+      "title": "独自機能",
+      "viewAll": "すべての機能を見る",
+      "panoramic": {
+        "title": "パノラマビュー",
+        "description": "曲面ビューで一度に最大4ページを体験"
+      },
+      "virtualShelf": {
+        "title": "3D仮想書棚",
+        "description": "インタラクティブな書棚をスペースに配置"
+      },
+      "multiComics": {
+        "title": "複数コミック",
+        "description": "異なるコミックを同時に読む"
+      },
+      "environments": {
+        "title": "360°環境",
+        "description": "無料の没入型読書環境"
+      },
+      "readingModes": {
+        "title": "読書モード",
+        "description": "自動補正付きの単一または二重ページ形式"
+      },
+      "mangaSupport": {
+        "title": "マンガサポート",
+        "description": "マンガファン向けの右から左への読書"
+      }
+    },
+    "testimonials": {
+      "title": "ユーザーの声",
+      "viewAll": "すべてのレビューを見る"
+    },
+    "download": {
+      "title": "コミック体験を変革する準備はできていますか？",
+      "subtitle": "今すぐApple Vision Pro用Splash Readerをダウンロード",
+      "compatibility": "VisionOSを実行するApple Vision Pro専用"
+    }
+  },
+  "features": {
+    "hero": {
+      "title": "独自機能",
+      "subtitle": "Apple Vision Pro向けに一から構築"
+    },
+    "panoramic": {
+      "title": "パノラマ曲面ビュー",
+      "description": "あなたを取り囲む没入型の曲面ビューで一度に最大4ページを体験できます。この独自機能により、コミックがこれまでにないほど生き生きとし、一度により多くのストーリーを見ることができます。"
+    },
+    "virtualShelf": {
+      "title": "3Dインタラクティブ仮想書棚",
+      "description": "3D仮想書棚をスペースに配置し、コミックを視覚的に整理します。実際の本棚の前に立っているかのようにコレクションを閲覧し、物理的なコミック体験をVRにもたらします。"
+    },
+    "multiComics": {
+      "title": "複数のコミックを同時に",
+      "description": "現在の冒険を離れることなく、異なる世界に飛び込みましょう。複数のコミックを一度に開き、シームレスに切り替えられます。参照やストーリーの比較に最適です。"
+    },
+    "environments": {
+      "title": "無料の360°環境",
+      "description": "読書体験を向上させるさまざまな没入型背景から選択できます。居心地の良い図書館から未来的な空間まで、コミックの冒険に最適な設定を見つけましょう。"
+    },
+    "readingModes": {
+      "title": "柔軟な読書モード",
+      "description": "好みに応じて単一または二重ページ形式で読めます。ワイドアスペクト比の画像は2ページモードで適切に表示されるよう自動補正されます。"
+    },
+    "mangaSupport": {
+      "title": "マンガサポート",
+      "description": "適切な右から左への読書サポートで日本のマンガを楽しめます。Splash Readerは読む方向を自動的に検出して調整し、本格的な体験を提供します。"
+    },
+    "organization": {
+      "title": "スマートな整理",
+      "description": "コミックをフォルダで整理して、コレクションを整然としてアクセスしやすく保ちます。次に読みたいものを手間なく見つけられます。"
+    },
+    "progressSaving": {
+      "title": "自動進捗保存",
+      "description": "Splash Readerは進捗を自動的に保存するので、戻るたびに中断したところから正確に再開できます。"
+    },
+    "pageCorrection": {
+      "title": "見開きページの補正",
+      "description": "プレースホルダーを追加して見開きページを正しく表示し、作者の意図通りにアートワークを見ることができます。"
+    },
+    "gestureControls": {
+      "title": "直感的な操作",
+      "description": "手のジェスチャーを使用するか、ページをタップしてページをめくります。VRでのナビゲーションは自然で簡単です。"
+    }
+  },
+  "environments": {
+    "hero": {
+      "title": "没入型読書環境",
+      "subtitle": "360°の周囲で体験を向上"
+    },
+    "overview": {
+      "title": "360° VR環境",
+      "description": "コミック読書の冒険に最適な背景を選びましょう。Splash Readerは読書体験を向上させる様々な没入型環境を提供しています。"
+    },
+    "gallery": {
+      "title": "環境ギャラリー",
+      "description": "読書環境のセレクションを閲覧"
+    },
+    "experience": {
+      "title": "向上した読書体験",
+      "description": "適切な環境は、お気に入りのコミックを体験する方法を変えることができます。居心地の良い環境から宇宙的な環境まで、現在の読書に合った雰囲気を見つけましょう。"
+    },
+    "settings": {
+      "title": "カスタマイズオプション",
+      "description": "照明、雰囲気、その他の設定を調整して、読書環境を完璧にします。"
+    },
+    "upcoming": {
+      "title": "今後のアップデート",
+      "description": "私たちはオプションを拡大するために新しい環境に常に取り組んでいます。"
+    }
+  },
+  "reviews": {
+    "hero": {
+      "title": "ユーザーレビュー",
+      "subtitle": "読者がSplash Readerについて言っていること"
+    },
+    "featured": {
+      "title": "注目のレビュー"
+    },
+    "review1": {
+      "quote": "スリック！素晴らしく見えます",
+      "author": "幸せな読者"
+    },
+    "review2": {
+      "quote": "Vision ProがiPad/Macや物理的なコミックよりも優れたコミック読書体験を提供する理由を示しています",
+      "author": "テクノロジー愛好家"
+    },
+    "review3": {
+      "quote": "コミックブックを読むのに最適です。機能が豊富で、使いやすく、見栄えも良いです",
+      "author": "コミックファン"
+    },
+    "community": {
+      "title": "コミュニティに参加",
+      "description": "他のSplash Readerユーザーと繋がり、体験やヒントを共有しましょう。",
+      "discord": "Discordに参加",
+      "facebook": "Facebookでフォロー"
+    },
+    "submit": {
+      "title": "あなたの体験を共有",
+      "description": "Splash Readerについてのご意見をお聞かせください。",
+      "button": "レビューを投稿"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "お問い合わせ",
+      "subtitle": "お手伝いします"
+    },
+    "info": {
+      "title": "連絡する",
+      "email": "メール：support@splashreader.com",
+      "discord": "Discord：サーバーに参加",
+      "facebook": "Facebook：ページをフォロー"
+    },
+    "form": {
+      "title": "メッセージを送信",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "subject": "件名",
+      "message": "メッセージ",
+      "submit": "メッセージを送信"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "q1": "Splash Readerはどのフォーマットをサポートしていますか？",
+      "a1": "Splash ReaderはCBR、CBZ、PDFなど、すべての一般的なデジタルグラフィックノベルフォーマットをサポートしています。",
+      "q2": "Apple Vision Pro以外のデバイスでSplash Readerを使用できますか？",
+      "a2": "現在、Splash ReaderはVisionOSを実行するApple Vision Pro専用に設計されています。",
+      "q3": "同時に何冊のコミックを読むことができますか？",
+      "a3": "複数のコミックを一度に開くことができ、異なるタイトル間をシームレスに切り替えることができます。",
+      "q4": "Splash Readerはマンガで動作しますか？",
+      "a4": "はい、Splash Readerはマンガ向けの右から左への読書をサポートしています。",
+      "q5": "問題がある場合はどこでヘルプを得られますか？",
+      "a5": "support@splashreader.comでサポートチームに連絡するか、Discordコミュニティに参加して支援を受けることができます。"
+    }
+  }
+}

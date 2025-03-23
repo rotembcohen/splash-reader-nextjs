@@ -1,0 +1,240 @@
+{
+  "common": {
+    "download": "Télécharger",
+    "learnMore": "En savoir plus",
+    "contactUs": "Contactez-nous",
+    "viewMore": "Voir plus",
+    "backToHome": "Retour à l'accueil",
+    "appName": "Splash Reader",
+    "copyright": "© 2024 Splash Software, LLC",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "selectLanguage": "Sélectionner la langue",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "compatibility": "Compatibilité"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "La page que vous recherchez n'existe pas ou a été déplacée."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "environments": "Environnements",
+    "reviews": "Avis",
+    "contact": "Contact"
+  },
+  "meta": {
+    "home": {
+      "title": "Splash Reader - Lecteur de BD en VR pour Apple Vision Pro",
+      "description": "Découvrez une nouvelle façon de lire des bandes dessinées avec Splash Reader, le premier lecteur VR conçu spécialement pour Apple Vision Pro.",
+      "keywords": "lecteur BD VR, application Apple Vision Pro, bandes dessinées VR, Splash Reader, CBR, CBZ, PDF"
+    },
+    "features": {
+      "title": "Fonctionnalités - Splash Reader pour Apple Vision Pro",
+      "description": "Découvrez les fonctionnalités exclusives de Splash Reader : vue panoramique, étagère virtuelle, support multi-BD et plus pour votre Apple Vision Pro.",
+      "keywords": "fonctionnalités BD VR, vue panoramique BD, étagère virtuelle 3D, plusieurs BD, application Vision Pro"
+    },
+    "environments": {
+      "title": "Environnements VR - Splash Reader pour Apple Vision Pro",
+      "description": "Explorez des environnements de lecture immersifs à 360° dans Splash Reader pour Apple Vision Pro. Améliorez votre expérience de lecture de BD.",
+      "keywords": "environnements de lecture VR, lecture BD 360, BD immersives, environnements Vision Pro"
+    },
+    "reviews": {
+      "title": "Avis des utilisateurs - Splash Reader pour Apple Vision Pro",
+      "description": "Découvrez ce que les utilisateurs disent de Splash Reader, le lecteur de BD VR révolutionnaire pour Apple Vision Pro.",
+      "keywords": "avis Splash Reader, avis application BD VR, avis application Vision Pro"
+    },
+    "contact": {
+      "title": "Contactez-nous - Splash Reader pour Apple Vision Pro",
+      "description": "Contactez l'équipe Splash Reader. Support, commentaires et questions pour l'application de lecture de BD pour Apple Vision Pro.",
+      "keywords": "support Splash Reader, aide lecteur de BD, contact application Vision Pro"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Expérience de BD Révolutionnaire",
+      "subtitle": "Le premier lecteur de BD VR conçu exclusivement pour Apple Vision Pro",
+      "cta": "Télécharger maintenant"
+    },
+    "intro": {
+      "title": "Une nouvelle dimension pour les BD",
+      "description": "Splash Reader révolutionne la façon dont vous profitez des bandes dessinées numériques sur votre Apple Vision Pro. Avec prise en charge de tous les formats populaires, y compris CBR, CBZ et PDF, Splash Reader élève votre expérience de lecture."
+    },
+    "features": {
+      "title": "Fonctionnalités exclusives",
+      "viewAll": "Voir toutes les fonctionnalités",
+      "panoramic": {
+        "title": "Vue panoramique",
+        "description": "Découvrez jusqu'à 4 pages à la fois dans une vue incurvée"
+      },
+      "virtualShelf": {
+        "title": "Étagère virtuelle 3D",
+        "description": "Placez une étagère interactive dans votre espace"
+      },
+      "multiComics": {
+        "title": "BD multiples",
+        "description": "Lisez différentes BD simultanément"
+      },
+      "environments": {
+        "title": "Environnements 360°",
+        "description": "Environnements de lecture immersifs gratuits"
+      },
+      "readingModes": {
+        "title": "Modes de lecture",
+        "description": "Formats une ou deux pages avec correction automatique"
+      },
+      "mangaSupport": {
+        "title": "Support Manga",
+        "description": "Lecture de droite à gauche pour les fans de manga"
+      }
+    },
+    "testimonials": {
+      "title": "Ce que disent les utilisateurs",
+      "viewAll": "Voir tous les avis"
+    },
+    "download": {
+      "title": "Prêt à transformer votre expérience de BD ?",
+      "subtitle": "Téléchargez Splash Reader maintenant pour votre Apple Vision Pro",
+      "compatibility": "Exclusivement pour Apple Vision Pro sous VisionOS"
+    }
+  },
+  "features": {
+    "hero": {
+      "title": "Fonctionnalités exclusives",
+      "subtitle": "Conçu spécialement pour Apple Vision Pro"
+    },
+    "panoramic": {
+      "title": "Vue panoramique incurvée",
+      "description": "Découvrez jusqu'à 4 pages à la fois dans une vue immersive et incurvée qui vous entoure. Cette fonctionnalité exclusive donne vie à vos BD comme jamais auparavant, vous permettant de voir plus de l'histoire en un coup d'œil."
+    },
+    "virtualShelf": {
+      "title": "Étagère virtuelle interactive 3D",
+      "description": "Placez une étagère virtuelle 3D dans votre espace et organisez vos BD visuellement. Parcourez votre collection comme si vous étiez devant une vraie bibliothèque, apportant l'expérience physique des BD en VR."
+    },
+    "multiComics": {
+      "title": "BD multiples simultanément",
+      "description": "Plongez dans différents mondes sans quitter votre aventure actuelle. Ouvrez plusieurs BD à la fois et passez de l'une à l'autre de façon transparente, parfait pour référence ou comparer des histoires."
+    },
+    "environments": {
+      "title": "Environnements 360° gratuits",
+      "description": "Choisissez parmi une variété de fonds immersifs pour améliorer votre expérience de lecture. Des bibliothèques confortables aux espaces futuristes, trouvez le cadre parfait pour votre aventure de BD."
+    },
+    "readingModes": {
+      "title": "Modes de lecture flexibles",
+      "description": "Lisez en format une ou deux pages selon votre préférence. Les images en format panoramique sont automatiquement corrigées pour apparaître correctement en mode 2 pages."
+    },
+    "mangaSupport": {
+      "title": "Support de manga",
+      "description": "Profitez des mangas japonais avec un support de lecture de droite à gauche. Splash Reader détecte et ajuste automatiquement le sens de lecture pour une expérience authentique."
+    },
+    "organization": {
+      "title": "Organisation intelligente",
+      "description": "Organisez les BD par dossiers pour garder votre collection ordonnée et accessible. Trouvez ce que vous voulez lire sans difficulté."
+    },
+    "progressSaving": {
+      "title": "Sauvegarde automatique de la progression",
+      "description": "Splash Reader sauvegarde automatiquement votre progression, vous permettant de reprendre exactement là où vous vous êtes arrêté à chaque fois que vous revenez."
+    },
+    "pageCorrection": {
+      "title": "Correction des doubles pages",
+      "description": "Ajoutez des espaces réservés pour afficher correctement les doubles pages, assurant que vous voyez l'œuvre comme l'a voulu son créateur."
+    },
+    "gestureControls": {
+      "title": "Contrôles intuitifs",
+      "description": "Tournez les pages en utilisant des gestes de la main ou en touchant la page. La navigation est naturelle et sans effort en VR."
+    }
+  },
+  "environments": {
+    "hero": {
+      "title": "Environnements de lecture immersifs",
+      "subtitle": "Améliorez votre expérience avec des décors à 360°"
+    },
+    "overview": {
+      "title": "Environnements VR à 360°",
+      "description": "Choisissez le décor parfait pour vos aventures de lecture de BD. Splash Reader offre une variété d'environnements immersifs qui améliorent votre expérience de lecture."
+    },
+    "gallery": {
+      "title": "Galerie d'environnements",
+      "description": "Parcourez notre sélection d'environnements de lecture"
+    },
+    "experience": {
+      "title": "Expérience de lecture améliorée",
+      "description": "Le bon environnement peut transformer votre manière de vivre vos BD préférées. Du confortable au cosmique, trouvez l'ambiance qui correspond à votre lecture actuelle."
+    },
+    "settings": {
+      "title": "Options de personnalisation",
+      "description": "Ajustez l'éclairage, l'ambiance et d'autres paramètres pour parfaire votre environnement de lecture."
+    },
+    "upcoming": {
+      "title": "Mises à jour futures",
+      "description": "Nous travaillons constamment sur de nouveaux environnements pour élargir vos options."
+    }
+  },
+  "reviews": {
+    "hero": {
+      "title": "Avis des utilisateurs",
+      "subtitle": "Ce que les lecteurs disent de Splash Reader"
+    },
+    "featured": {
+      "title": "Avis en vedette"
+    },
+    "review1": {
+      "quote": "Élégant ! C'est fantastique",
+      "author": "Lecteur heureux"
+    },
+    "review2": {
+      "quote": "Démontre pourquoi le Vision Pro offre une expérience de lecture de BD supérieure à l'iPad/Mac, ou même aux BD physiques",
+      "author": "Passionné de technologie"
+    },
+    "review3": {
+      "quote": "Parfait pour la lecture de BD. C'est riche en fonctionnalités, facile à utiliser et un plaisir à regarder",
+      "author": "Fan de BD"
+    },
+    "community": {
+      "title": "Rejoignez notre communauté",
+      "description": "Connectez-vous avec d'autres utilisateurs de Splash Reader pour partager des expériences et des conseils.",
+      "discord": "Rejoignez notre Discord",
+      "facebook": "Suivez-nous sur Facebook"
+    },
+    "submit": {
+      "title": "Partagez votre expérience",
+      "description": "Nous aimerions savoir ce que vous pensez de Splash Reader.",
+      "button": "Soumettre un avis"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Nous sommes là pour vous aider"
+    },
+    "info": {
+      "title": "Entrez en contact",
+      "email": "Email : support@splashreader.com",
+      "discord": "Discord : Rejoignez notre serveur",
+      "facebook": "Facebook : Suivez notre page"
+    },
+    "form": {
+      "title": "Envoyez un message",
+      "name": "Votre nom",
+      "email": "Votre email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message"
+    },
+    "faq": {
+      "title": "Questions fréquemment posées",
+      "q1": "Quels formats Splash Reader prend-il en charge ?",
+      "a1": "Splash Reader prend en charge tous les formats populaires de romans graphiques numériques, notamment CBR, CBZ et PDF.",
+      "q2": "Puis-je utiliser Splash Reader sur d'autres appareils que l'Apple Vision Pro ?",
+      "a2": "Actuellement, Splash Reader est exclusivement conçu pour Apple Vision Pro sous VisionOS.",
+      "q3": "Combien de BD puis-je lire simultanément ?",
+      "a3": "Vous pouvez ouvrir plusieurs BD à la fois, ce qui vous permet de passer d'un titre à l'autre de manière transparente.",
+      "q4": "Est-ce que Splash Reader fonctionne avec les mangas ?",
+      "a4": "Oui, Splash Reader prend en charge la lecture de droite à gauche pour les mangas.",
+      "q5": "Où puis-je obtenir de l'aide si j'ai un problème ?",
+      "a5": "Vous pouvez contacter notre équipe d'assistance par email à support@splashreader.com ou rejoindre notre communauté Discord pour obtenir de l'aide."
+    }
+  }
+}

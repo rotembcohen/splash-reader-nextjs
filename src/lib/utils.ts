@@ -5,22 +5,22 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-// Function to get image URL with proper base path
+// Function to get image URL with proper base path for GitHub Pages
 export function getImageUrl(path: string): string {
   const isProd = process.env.NODE_ENV === 'production';
-
-  // Clean input path
-  const cleanPath = path.startsWith('/') ? path : `/${path}`;
   
-  // In production, images need a different path due to locale prefixing
+  // Clean input path - remove leading slash if present
+  const cleanPath = path.startsWith('/') ? path.substring(1) : path;
+  
+  // In production with GitHub Pages + i18n routes, we need a different path structure
   if (isProd) {
-    // For images in /public/images, we need to use a relative path strategy
-    if (cleanPath.startsWith('/images/')) {
-      return `../images${cleanPath.substring(7)}`;
-    }
+    // For images, use simple parent directory relative path to work with language prefixes
+    // This addresses the issue of being in /en/ or other language directories
+    return `../images/${cleanPath.replace('images/', '')}`;
   }
   
-  return cleanPath;
+  // In development, use absolute path
+  return `/${cleanPath}`;
 }
 
 // SEO Helper functions

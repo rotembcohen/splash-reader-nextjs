@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Dictionary } from '@/lib/utils';
 import { Locale, routes } from '@/lib/i18n/config';
+import OptimizedImage from '@/components/ui/OptimizedImage';
 
 type HeroSectionProps = {
   locale: Locale;
@@ -44,7 +45,7 @@ export default function HeroSection({ locale, dictionary }: HeroSectionProps) {
               rel="noopener noreferrer"
               className="inline-block"
             >
-              <Image
+              <OptimizedImage
                 src="/images/download-on-the-app-store-button.png"
                 alt="Download on the App Store"
                 width={180}
@@ -70,7 +71,7 @@ export default function HeroSection({ locale, dictionary }: HeroSectionProps) {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/20 bg-black/10 backdrop-blur-sm">
-            <Image
+            <OptimizedImage
               src="/images/tokyo-multipage-panorama-screenshot.png"
               alt="Splash Reader Panoramic View"
               width={800}

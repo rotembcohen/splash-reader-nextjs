@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // GitHub Pages 404 redirect hack for SPAs with client-side routing
+    (function() {
+      // Get the current path excluding the repo name
+      var repoName = 'splash-reader-nextjs';
+      var l = window.location;
+      var fullPath = l.pathname;
+      
+      // Remove the repo name from the path if it's there
+      var pathWithoutRepo = fullPath.indexOf('/' + repoName) === 0 
+        ? fullPath.substr(repoName.length + 1) 
+        : fullPath;
+      
+      // If the path doesn't have a language prefix, add one
+      var hasLangPrefix = /^\/(en|fr|ja|ko)(\/|$)/.test(pathWithoutRepo);
+      
+      if (!hasLangPrefix && pathWithoutRepo !== '/404.html') {
+        // Redirect to English (default language) with the same path
+        var newPath = '/' + repoName + '/en' + (pathWithoutRepo !== '/' ? pathWithoutRepo : '');
+        window.location.href = l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + newPath;
+      } else if (pathWithoutRepo === '/404.html') {
+        // Just show the 404 page if we're specifically on 404.html
+        document.write('Page not found. <a href="/' + repoName + '/en/">Go to Home Page</a>');
+      } else {
+        // Redirect to the correct page within the app
+        var redirectPath = '/' + repoName + '#' + pathWithoutRepo;
+        window.location.href = l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + redirectPath;
+      }
+    })();
+  </script>
+</head>
+<body>
+  <h1>Page Not Found</h1>
+  <p>Redirecting you to the homepage...</p>
+  <a href="/splash-reader-nextjs/en/">Click here if you are not redirected automatically</a>
+</body>
+</html>

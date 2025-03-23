@@ -7,7 +7,20 @@ export function cn(...inputs: ClassValue[]) {
 
 // Function to get image URL with proper base path
 export function getImageUrl(path: string): string {
-  return path.startsWith('/') ? path : `/${path}`;
+  const isProd = process.env.NODE_ENV === 'production';
+
+  // Clean input path
+  const cleanPath = path.startsWith('/') ? path : `/${path}`;
+  
+  // In production, images need a different path due to locale prefixing
+  if (isProd) {
+    // For images in /public/images, we need to use a relative path strategy
+    if (cleanPath.startsWith('/images/')) {
+      return `../images${cleanPath.substring(7)}`;
+    }
+  }
+  
+  return cleanPath;
 }
 
 // SEO Helper functions

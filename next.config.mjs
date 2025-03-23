@@ -11,7 +11,7 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true, // Add trailing slashes for better static site support
   basePath: isProd ? '/splash-reader-nextjs' : '',
-  assetPrefix: isProd ? '/splash-reader-nextjs/' : '',
+  assetPrefix: isProd ? '/splash-reader-nextjs' : '', // Fixed for next/font compatibility
 };
 
 export default nextConfig;

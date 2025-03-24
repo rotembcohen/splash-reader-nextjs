@@ -41,7 +41,7 @@ export default function Header({ locale, dictionary }: HeaderProps) {
   const toggleLangMenu = () => setLangMenuOpen(!langMenuOpen);
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-black/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-800">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-black/80 border-b border-gray-200 dark:border-gray-800">
       <nav className="container-custom flex items-center justify-between py-4" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href={`/${locale}`} className="-m-1.5 p-1.5">
